@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Thirty Days of Basic Algebra</string>
-
+    <string name="title_bar">30 Days of Basic Algebra</string>
 
     <!-- Title -->
     <string name="title_day_1">Day 1</string>
@@ -67,136 +67,72 @@
     <string name="subtitle_30">Dividing Decimal</string>
 
     <!-- descriptions -->
-    <string name="description_1">Negative numbers are numerical values that are less than zero. They are represented with a minus sign (-) in front of them. For example, -5 and -0.75 are negative numbers. On a number line, negative numbers are positioned to the left of zero. </string>
-    <string name="description_2">The opposite of a number refers to another number that is located on the opposite side of zero on the number line, while maintaining the same distance from zero. For example, -5 and 5, both have the same distance from zero and located on the opposite side of each other</string>
+    <string name="description_1">"Negative numbers are numerical values that are less than zero. They are represented with a minus sign (-) in front of them. For example, -5 and -0.75 are negative numbers. On a number line, negative numbers are positioned to the left of zero."</string>
+    <string name="description_2">"The opposite of a number refers to another number that is located on the opposite side of zero on the number line, while maintaining the same distance from zero. For example, -5 and 5, both have the same distance from zero and located on the opposite side of each other"</string>
     <string name="description_3">
-        When adding numbers with different signs, follow these steps:
-        1. Find the absolute values of both numbers.
-        2. Subtract the smaller absolute value from the larger one.
-        3. Give the answer the same sign as the number with the greater absolute value.
-        Example: (-10) + 5 = -5
+        "When adding numbers with different signs, follow these steps: \n\n1. Find the absolute values of both numbers. \n\n2. Subtract the smaller absolute value from the larger one.\n\n3.Give the answer the same sign as the number with the greater absolute value.\n\nExample: (-10) + 5 = -5"
     </string>
     <string name="description_4">
-        When subtracting a negative number, it’s equivalent to adding its positive counterpart.
-        Example: (-16) - (-12) = -16 + 12 = -4
+        "When subtracting a negative number, it’s equivalent to adding its positive counterpart.\n\nExample: (-16) - (-12) = -16 + 12 = -4"
     </string>
-    <string name="description_5">Multiplying on positive numbers is just normal multiplication. Both numbers have the same sign, that is plus (+). For example 3 x 2 = 3 + 3 = 6.</string>
-    <string name="description_6">Multiplying on negative numbers is multiplying the numbers, but the result being positive numbers because minus multiplication with minus is positive. Just like the positive numbers multiplication. For example: (-3) x (-2) = +(3 x 2) = = 3 + 3 = 6. </string>
-    <string name="description_7">The result of multiplication between positive number and negative number is always negative number. For example: (-5) x 3 = - (5 + 5 + 5) = -15</string>
-    <string name="description_8">The result of division on positive numbers is always positive number. For example: 6 / 2 = 3.</string>
-    <string name="description_9">The result of division on negative numbers is always positive number just like multiplying on negative numbers. For example: (-6) / (-2) = 3. </string>
-    <string name="description_10">The result of division between positive numbers and negative numbers is always negative number. For example: (-6) / 3 = -2.</string>
-    <string name="description_11">The absolute value of a number is its distance from 0. For example the absolute of 5 is 5 and the distance from 0 is 5, the absolute of -5 is 5 and the distance from 0 is also 5.</string>
-    <string name="description_12">The exponent of a number indicates the total time to use that number in a multiplication. For example, 3 × 3 × 3  can be expressed as 3^3 (3 power to 3) because 3 is multiplied by itself 3 times. </string>
-    <string name="description_13">Any numbers power to zero resulted 1. For example: 3^0 (3 power to 0) = 1 times nothing so it resulted one. In the normal exponents, like 3^3, we put 1 then do multiplication to it with the base number 3 times. So it became like this: 3^3 = 1 x 3 x 3 x = 27.</string>
+    <string name="description_5">"Multiplying on positive numbers is just normal multiplication. Both numbers have the same sign, that is plus (+). For example 3 x 2 = 3 + 3 = 6"</string>
+    <string name="description_6">"Multiplying on negative numbers is multiplying the numbers, but the result being positive numbers because minus multiplication with minus is positive. Just like the positive numbers multiplication. For example: (-3) x (-2) = +(3 x 2) = = 3 + 3 = 6" </string>
+    <string name="description_7">"The result of multiplication between positive number and negative number is always negative number. For example: (-5) x 3 = - (5 + 5 + 5) = -15"</string>
+    <string name="description_8">"The result of division on positive numbers is always positive number. For example: 6 / 2 = 3"</string>
+    <string name="description_9">"The result of division on negative numbers is always positive number just like multiplying on negative numbers. For example: (-6) / (-2) = 3"</string>
+    <string name="description_10">"The result of division between positive numbers and negative numbers is always negative number. For example: (-6) / 3 = -2"</string>
+    <string name="description_11">"The absolute value of a number is its distance from 0. For example the absolute of 5 is 5 and the distance from 0 is 5, the absolute of -5 is 5 and the distance from 0 is also 5"</string>
+    <string name="description_12">"The exponent of a number indicates the total time to use that number in a multiplication. For example, 3 × 3 × 3  can be expressed as 3^3 (3 power to 3) because 3 is multiplied by itself 3 times."</string>
+    <string name="description_13">"Any numbers power to zero resulted 1. For example: 3^0 (3 power to 0) = 1 times nothing so it resulted one. In the normal exponents, like 3^3, we put 1 then do multiplication to it with the base number 3 times. So it became like this: 3^3 = 1 x 3 x 3 x = 27."</string>
     <string name="description_14">
-        The sign\'s result of this exponents depends on the power number. If the power number is odd number, the sign\'s result is negative (-). If the power number is even number, the sign\'s result is positive (+).
-        For example:
-        1. (-8)^2 = 1 x (-8) x (-8) = 64.
-        2. (-8)^1 = 1 x (-8) = -8.
+        "The sign\'s result of this exponents depends on the power number. If the power number is odd number, the sign\'s result is negative (-). If the power number is even number, the sign\'s result is positive (+).\n\nFor example:\n\n1. (-8)^2 = 1 x (-8) x (-8) = 64.\n\n2. (-8)^1 = 1 x (-8) = -8."
     </string>
     <string name="description_15">
-        How to calculate the exponents of Decimals? Well, it is like the normal exponential, but we put the result behind point based on how many digits on the decimals.
-        For example:
-        1. 0.3^2 (0.3 power to 2) = 0.3  x 0.3 = 0.09 (0.3 have one digit behind point, the other 0.3 have one digit behind point, so in the result there are two digits behind point, which is 0.09).
-        2. 0.8^2 (0.8 power to 2) = 0.8 x 0.8 = 0.64 (0.8 have one digit behind point, the other 0.8 have one digit behind point, so in the result there are two digits behind point, which is 0.64).
+        "How to calculate the exponents of Decimals? Well, it is like the normal exponential, but we put the result behind point based on how many digits on the decimals.\n\nFor example:\n1. 0.3^2 (0.3 power to 2) = 0.3  x 0.3 = 0.09 (0.3 have one digit behind point, the other 0.3 have one digit behind point, so in the result there are two digits behind point, which is 0.09).\n\n2. 0.8^2 (0.8 power to 2) = 0.8 x 0.8 = 0.64 (0.8 have one digit behind point, the other 0.8 have one digit behind point, so in the result there are two digits behind point, which is 0.64)."
     </string>
     <string name="description_16">
-        Square root of 4 is 2. In this example, we are looking for what\'s times by it self equal to 4. We found that 2 times 2 equal to 4, so the result of square root of 4 is 2.
+        "Square root of 4 is 2. In this example, we are looking for what\'s times by it self equal to 4. We found that 2 times 2 equal to 4, so the result of square root of 4 is 2."
     </string>
     <string name="description_17">
-        Sometimes we meet square root that doesn\'t have what\'s number times by itself equal to the number inside the square root. In this case, we can simplifying it.
-        For example:
-        Square root of 27. We can\'t find any number times by itself equal to 27. So, we search for multiplication of numbers that equal to 27. We found 9 times 3 is 27. It became square root of 9 times square root of 3. Square root of 9 is 3, and square root of 3 stays the same because we can\'t simplify it anymore. The result is 3 times square root of 3.
+        "Sometimes we meet square root that doesn\'t have what\'s number times by itself equal to the number inside the square root. In this case, we can simplifying it.\n\nFor example:\nSquare root of 27. We can\'t find any number times by itself equal to 27. \n\nSo, we search for multiplication of numbers that equal to 27. We found 9 times 3 is 27. It became square root of 9 times square root of 3. Square root of 9 is 3, and square root of 3 stays the same because we can\'t simplify it anymore. The result is 3 times square root of 3."
     </string>
     <string name="description_18">
-        In a operation, there could be different kind of things like division, number inside parentheses, addition, exponent, etc. There is a correct order in which first being calculated in a operation.
-        Here is the order from the top priority to be calculated first to the last:
-        1. Any calculation inside parentheses before calculate it to numbers outside of the parentheses.
-        2. Exponential.
-        3. Division/Multiplication
-        4. Subtracting/Adding
-        Why do we need to follow the correct order of operations? We follow it to find the correct result of calculation. If we don\'t follow the correct order, the result will be wrong and vary.
+        "In a operation, there could be different kind of things like division, number inside parentheses, addition, exponent, etc. There is a correct order in which first being calculated in a operation.\n\nHere is the order from the top priority to be calculated first to the last:\n\n1. Any calculation inside parentheses before calculate it to numbers outside of the parentheses.\n\n2. Exponential.\n\n3. Division/Multiplication\n4. Subtracting/Adding\n\nWhy do we need to follow the correct order of operations? We follow it to find the correct result of calculation. If we don\'t follow the correct order, the result will be wrong and vary."
     </string>
     <string name="description_19">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
-        How to add fractions number? Let\'s take example of 1/2 + 1/2. In the fractions calculation, we need to see the denominators. If the denominators are the same (on this example both are 2), we just need to add the numerator which is 1 + 1, and the denominators stay 2. So the result is (1+1)/2 = 2/2 = 1. Denominators don\'t need to be added.
-        If the denominators different, for example, 1/3 + 1/2, we need to make the denominators have the same value.
-        1. Multiply the first number numerator with the second number denominators, (1 x 2) / 3 + 1/2.
-        2. Multiply the second number numerator with the first number denominators, (1 x 2) / 3 + (1 x 3) / 2.
-        3. Multiply the first number denominator with the second number denominators, so, it become 2/6 + 3/6.
-        4. Here we can add the first number numerator with the second number numerator. The denominators don\'t need to be added to each other. So, it become (2 + 3)/6 = 5/6.   "
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.\n\nHow to add fractions number? Let\'s take example of 1/2 + 1/2. In the fractions calculation, we need to see the denominators. If the denominators are the same (on this example both are 2), we just need to add the numerator which is 1 + 1, and the denominators stay 2. So the result is (1+1)/2 = 2/2 = 1. Denominators don\'t need to be added.\n\nIf the denominators different, for example, 1/3 + 1/2, we need to make the denominators have the same value.\n\n1. Multiply the first number numerator with the second number denominators, (1 x 2) / 3 + 1/2.\n\n2. Multiply the second number numerator with the first number denominators, (1 x 2) / 3 + (1 x 3) / 2.\n\n3. Multiply the first number denominator with the second number denominators, so, it become 2/6 + 3/6.\n\n4. Here we can add the first number numerator with the second number numerator. The denominators don\'t need to be added to each other. So, it become (2 + 3)/6 = 5/6."
     </string>
     <string name="description_20">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
-        How to subtract fractions number? Let\'s take example of 4/2 - 1/2.
-        In the fractions calculation, we need to see the denominators.
-        If the denominators are the same (on this example both are 2), we just need to subtract the numerator which is 4 - 1, and the denominators stay 2. So the result is (4-1)/2 = 3/2. We don\'t need to subtract the denominators.
-        If the denominators different, for example, 1/3 - 1/2, we need to make the denominators have the same value.
-        1. Multiply the first number numerator with the second number denominator, (1 x 3) / 2 - 1/3.
-        2. Multiply the second number numerator with the first number denominator, (1 x 3) / 2 - (1 x 2) / 3.
-        3. Multiply the first number denominator with the second number denominator, so, it become 3/6 - 2/6.
-        4. Here we can subtract the first number numerator with the second number numerator. The denominators don\'t need to be subtract to each other. So, it become (3 - 2)/6 = 1/6.
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.\n\nHow to subtract fractions number? Let\'s take example of 4/2 - 1/2.\n\nIn the fractions calculation, we need to see the denominators.\n\nIf the denominators are the same (on this example both are 2), we just need to subtract the numerator which is 4 - 1, and the denominators stay 2. So the result is (4-1)/2 = 3/2. We don\'t need to subtract the denominators.\n\nIf the denominators different, for example, 1/3 - 1/2, we need to make the denominators have the same value.\n\n1. Multiply the first number numerator with the second number denominator, (1 x 3) / 2 - 1/3.\n\n2. Multiply the second number numerator with the first number denominator, (1 x 3) / 2 - (1 x 2) / 3.\n\n3. Multiply the first number denominator with the second number denominator, so, it become 3/6 - 2/6.\n\n4. Here we can subtract the first number numerator with the second number numerator. The denominators don\'t need to be subtract to each other. So, it become (3 - 2)/6 = 1/6"
     </string>
     <string name="description_21">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
-        How to multiply fractions number? Let\'s take example of 2/5 x 1/2.
-        1. Multiply the first number numerator with the second number numerator, and multiply the second number denominator with the second number denominator.
-        2. So, it become 2 x 1 / 5 x 2 = 2/10 =  1/5.
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.\n\nHow to multiply fractions number? Let\'s take example of 2/5 x 1/2.\n\n1. Multiply the first number numerator with the second number numerator, and multiply the second number denominator with the second number denominator.\n\n2. So, it become 2 x 1 / 5 x 2 = 2/10 =  1/5."
     </string>
     <string name="description_22">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
-        How to divide fractions number? Let\'s take example of (2/5)/(1/2).
-        1. Swap second number numerator to denominator and vice versa, (2/5) / (2/1).
-        2. Multiply first number numerator to second number numerator, then multiply second number numerator and second number denominator, (2 x 2) / (5 x 1).
-        So, it become 4/5.
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.\n\nHow to divide fractions number? Let\'s take example of (2/5)/(1/2).\n\n1. Swap second number numerator to denominator and vice versa, (2/5) / (2/1).\n\n2. Multiply first number numerator to second number numerator, then multiply second number numerator and second number denominator, (2 x 2) / (5 x 1).\n\nSo, it become 4/5."
     </string>
     <string name="description_23">
-        What is percent? Percent is per hundred. For example 5% is 5 per hundred. For example there is one big square. We cut it into 100 small squares, then we want to take 5% from it. That means we take 5 small squares of 100 small squares.
+        "What is percent? Percent is per hundred. For example 5% is 5 per hundred. For example there is one big square. We cut it into 100 small squares, then we want to take 5% from it. That means we take 5 small squares of 100 small squares."
     </string>
     <string name="description_24">
-        What if we want more than the whole percent? Let\'s take example of 120%. 120% means 120 per hundred.
-        We get two big squares, cut them each into 100 small squares, take 20% from one of the big squares that has been cut, that\'s mean we take 20 small squares of 100 small squares. Then, we added the whole 100% from the other big squares that has been cut which is 100 small squares into 20 small squares we take from another big squares that has been cut. The result is 120 small squares.
+        "What if we want more than the whole percent? Let\'s take example of 120%. 120% means 120 per hundred.\n\nWe get two big squares, cut them each into 100 small squares, take 20% from one of the big squares that has been cut, that\'s mean we take 20 small squares of 100 small squares. Then, we added the whole 100% from the other big squares that has been cut which is 100 small squares into 20 small squares we take from another big squares that has been cut. The result is 120 small squares."
     </string>
     <string name="description_25">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal.
-        How to convert fractions to decimal? Let\'s take example from 5/10 and 2/25.
-        1. If the denominator is either 10, 100, 1000, 10000, and so on, count the 0 digits, the number of digits behind point based on them. 5/10 denominator is 10, it has a 0 digit. So, it become 0.5.
-        2. Another example is 4/100, the denominator digit is 2. So, the digit behind point are 2. It become 0.04.
-        3. If it\'s 25/100, the denominator digit is 2. So, the digit behind point are 2, it become 0.25.
-        4. Another example is 2/25. We need to make the denominator either 10, 100, or 1000. We choose to change it to 100 because it already exceed 10. Multiply 2/25 with number that make 25 become 100. That number is 4. So, 2/25 x 25/25 = 50/100. There are two digits in 100. So, it become 0.5 or 0.50.
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal.\n\nHow to convert fractions to decimal? Let\'s take example from 5/10 and 2/25.\n\n1. If the denominator is either 10, 100, 1000, 10000, and so on, count the 0 digits, the number of digits behind point based on them. 5/10 denominator is 10, it has a 0 digit. So, it become 0.5\n\n2. Another example is 4/100, the denominator digit is 2. So, the digit behind point are 2. It become 0.04\n\n3. If it\'s 25/100, the denominator digit is 2. So, the digit behind point are 2, it become 0.25\n\n4. Another example is 2/25. We need to make the denominator either 10, 100, or 1000. We choose to change it to 100 because it already exceed 10. Multiply 2/25 with number that make 25 become 100. That number is 4. So, 2/25 x 25/25 = 50/100. There are two digits in 100. So, it become 0.5 or 0.50"
     </string>
     <string name="description_26">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to convert decimal to fractions? Let\'s take example from 0.5 and 0.04.
-        1. Check how much digits behind the point. We found one digit on example 0.5. Remove the point so it become 5. Since the digit behind point was one, we put 10 as the denominator. So, 5 is the numerator, and 10 is the denominator (5/10).
-        2. Check how much digit behind the point of example 0.04. We found there are two digits. Remove the point so it become 4. Since the digits behind the point were 2, we put 100 as the denominator. So, 4 is the numerator, and 100 is the denominator (4/100).
+        "Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to convert decimal to fractions? Let\'s take example from 0.5 and 0.04\n\n1. Check how much digits behind the point. We found one digit on example 0.5. Remove the point so it become 5. Since the digit behind point was one, we put 10 as the denominator. So, 5 is the numerator, and 10 is the denominator (5/10).\n\n2. Check how much digit behind the point of example 0.04. We found there are two digits. Remove the point so it become 4. Since the digits behind the point were 2, we put 100 as the denominator. So, 4 is the numerator, and 100 is the denominator (4/100)."
     </string>
     <string name="description_27">
-        What if we want to find some percent of a whole percentages that not 100? For example, 20% of 80.
-        Here how to calculate it:
-        1. Since 20% is 20 per hundred, so it become 20/100.
-        2. Then multiply it with 80, 20/100 x 80. It become 1600/100 = 16.
-        So, 20% of 80 is 16.
+        "What if we want to find some percent of a whole percentages that not 100? For example, 20% of 80\n\nHere how to calculate it:\n\n1. Since 20% is 20 per hundred, so it become 20/100\n\n2. Then multiply it with 80, 20/100 x 80. It become 1600/100 = 16\n\nSo, 20% of 80 is 16"
     </string>
     <string name="description_28">
-        Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to add decimal number?
-        1. Align the point, then do the calculation.
-        For example:
-        1. Addition: 0.456 + 12.9 = 13.356.
-        2. Subtraction: 28.888 - 3.24 = 25.648
+        "Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to add decimal number?\n\n1. Align the point, then do the calculation.\n\nFor example:\n\n1. Addition: 0.456 + 12.9 = 13.356\n\n2. Subtraction: 28.888 - 3.24 = 25.648"
     </string>
     <string name="description_29">
-        Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to multiply decimal number?
-        1. Count the digits after points on all the numbers. Remove all the points from the numbers we want to multiply.
-        2. Multiply the numbers.
-        3. Put point on the result, make sure digits after the points based on the digit we counted on the first step.
-        For example 3.56 x 0.8 has total 3 digits after the numbers point. We remove the point, calculate 356 x 8 = 2848, then put point after 3 digits from the right. So, it become 2.848.
+        "Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to multiply decimal number?\n\n1. Count the digits after points on all the numbers. Remove all the points from the numbers we want to multiply.\n\n2. Multiply the numbers.\n\n3. Put point on the result, make sure digits after the points based on the digit we counted on the first step.\n\nFor example 3.56 x 0.8 has total 3 digits after the numbers point. We remove the point, calculate 356 x 8 = 2848, then put point after 3 digits from the right. So, it become 2.848"
     </string>
     <string name="description_30">
-    Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to divide decimal number?
-
-    1. Multiply each number by 100.
-    2. Divide the numbers.
-    For example 3.55 / 0.5 = 3.55 x 10
+        "Decimal is a whole number with the fractional part separated by a decimal point. 1.2 is a decimal. How to divide decimal number?\n\n1. Multiply each number by 100\n\n2. Divide the numbers.\n\nFor example 3.55 / 0.5 = 3.55 x 10"
     </string>
 </resources>
