@@ -3,36 +3,36 @@
 
 
     <!-- Title -->
-    <string name="title_day_1">1</string>
-    <string name="title_day_2">2</string>
-    <string name="title_day_3">3</string>
-    <string name="title_day_4">4</string>
-    <string name="title_day_5">5</string>
-    <string name="title_day_6">6</string>
-    <string name="title_day_7">7</string>
-    <string name="title_day_8">8</string>
-    <string name="title_day_9">9</string>
-    <string name="title_day_10">10</string>
-    <string name="title_day_11">11</string>
-    <string name="title_day_12">12</string>
-    <string name="title_day_13">13</string>
-    <string name="title_day_14">14</string>
-    <string name="title_day_15">15</string>
-    <string name="title_day_16">16</string>
-    <string name="title_day_17">17</string>
-    <string name="title_day_18">18</string>
-    <string name="title_day_19">19</string>
-    <string name="title_day_20">20</string>
-    <string name="title_day_21">21</string>
-    <string name="title_day_22">22</string>
-    <string name="title_day_23">23</string>
-    <string name="title_day_24">24</string>
-    <string name="title_day_25">25</string>
-    <string name="title_day_26">26</string>
-    <string name="title_day_27">27</string>
-    <string name="title_day_28">28</string>
-    <string name="title_day_29">29</string>
-    <string name="title_day_30">30</string>
+    <string name="title_day_1">Day 1</string>
+    <string name="title_day_2">Day 2</string>
+    <string name="title_day_3">Day 3</string>
+    <string name="title_day_4">Day 4</string>
+    <string name="title_day_5">Day 5</string>
+    <string name="title_day_6">Day 6</string>
+    <string name="title_day_7">Day 7</string>
+    <string name="title_day_8">Day 8</string>
+    <string name="title_day_9">Day 9</string>
+    <string name="title_day_10">Day 10</string>
+    <string name="title_day_11">Day 11</string>
+    <string name="title_day_12">Day 12</string>
+    <string name="title_day_13">Day 13</string>
+    <string name="title_day_14">Day 14</string>
+    <string name="title_day_15">Day 15</string>
+    <string name="title_day_16">Day 16</string>
+    <string name="title_day_17">Day 17</string>
+    <string name="title_day_18">Day 18</string>
+    <string name="title_day_19">Day 19</string>
+    <string name="title_day_20">Day 20</string>
+    <string name="title_day_21">Day 21</string>
+    <string name="title_day_22">Day 22</string>
+    <string name="title_day_23">Day 23</string>
+    <string name="title_day_24">Day 24</string>
+    <string name="title_day_25">Day 25</string>
+    <string name="title_day_26">Day 26</string>
+    <string name="title_day_27">Day 27</string>
+    <string name="title_day_28">Day 28</string>
+    <string name="title_day_29">Day 29</string>
+    <string name="title_day_30">Day 30</string>
 
     <!-- Subtitle -->
     <string name="subtitle_1">Negative Number</string>
@@ -81,7 +81,7 @@
         Example: (-16) - (-12) = -16 + 12 = -4
     </string>
     <string name="description_5">Multiplying on positive numbers is just normal multiplication. Both numbers have the same sign, that is plus (+). For example 3 x 2 = 3 + 3 = 6.</string>
-    <string name="description_6">Multiplying on negative numbers is multiplying the numbers, but the result being positive numbers because minus multiplication with minus is positive.Just like the positive numbers multiplication. For example: (-3) x (-2) = +(3 x 2) = = 3 + 3 = 6. </string>
+    <string name="description_6">Multiplying on negative numbers is multiplying the numbers, but the result being positive numbers because minus multiplication with minus is positive. Just like the positive numbers multiplication. For example: (-3) x (-2) = +(3 x 2) = = 3 + 3 = 6. </string>
     <string name="description_7">The result of multiplication between positive number and negative number is always negative number. For example: (-5) x 3 = - (5 + 5 + 5) = -15</string>
     <string name="description_8">The result of division on positive numbers is always positive number. For example: 6 / 2 = 3.</string>
     <string name="description_9">The result of division on negative numbers is always positive number just like multiplying on negative numbers. For example: (-6) / (-2) = 3. </string>
@@ -107,7 +107,7 @@
     <string name="description_17">
         Sometimes we meet square root that doesn\'t have what\'s number times by itself equal to the number inside the square root. In this case, we can simplifying it.
         For example:
-        Square root of 27. We can\'t find any number times by itself equal to 27. So, we search for multiplication of numbers that equal to 27. We found 9 times 3 is 27. It became square root of 9 times square root of 3. Square root of 9 is 3, and square root of 3 stays the same because we can't simplify it anymore. The result is 3 times square root of 3.
+        Square root of 27. We can\'t find any number times by itself equal to 27. So, we search for multiplication of numbers that equal to 27. We found 9 times 3 is 27. It became square root of 9 times square root of 3. Square root of 9 is 3, and square root of 3 stays the same because we can\'t simplify it anymore. The result is 3 times square root of 3.
     </string>
     <string name="description_18">
         In a operation, there could be different kind of things like division, number inside parentheses, addition, exponent, etc. There is a correct order in which first being calculated in a operation.
@@ -116,7 +116,7 @@
         2. Exponential.
         3. Division/Multiplication
         4. Subtracting/Adding
-        Why do we need to follow the correct order of operations? We follow it to find the correct result of calculation. If we don't follow the correct order, the result will be wrong and vary.
+        Why do we need to follow the correct order of operations? We follow it to find the correct result of calculation. If we don\'t follow the correct order, the result will be wrong and vary.
     </string>
     <string name="description_19">
         Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
@@ -125,10 +125,10 @@
         1. Multiply the first number numerator with the second number denominators, (1 x 2) / 3 + 1/2.
         2. Multiply the second number numerator with the first number denominators, (1 x 2) / 3 + (1 x 3) / 2.
         3. Multiply the first number denominator with the second number denominators, so, it become 2/6 + 3/6.
-        4. Here we can add the first number numerator with the second number numerator. The denominators don't need to be added to each other. So, it become (2 + 3)/6 = 5/6.   "
+        4. Here we can add the first number numerator with the second number numerator. The denominators don\'t need to be added to each other. So, it become (2 + 3)/6 = 5/6.   "
     </string>
     <string name="description_20">
-        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denumerator is 2.
+        Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
         How to subtract fractions number? Let\'s take example of 4/2 - 1/2.
         In the fractions calculation, we need to see the denominators.
         If the denominators are the same (on this example both are 2), we just need to subtract the numerator which is 4 - 1, and the denominators stay 2. So the result is (4-1)/2 = 3/2. We don\'t need to subtract the denominators.
@@ -136,7 +136,7 @@
         1. Multiply the first number numerator with the second number denominator, (1 x 3) / 2 - 1/3.
         2. Multiply the second number numerator with the first number denominator, (1 x 3) / 2 - (1 x 2) / 3.
         3. Multiply the first number denominator with the second number denominator, so, it become 3/6 - 2/6.
-        4. Here we can subtract the first number numerator with the second number numerator. The denominators don't need to be subtract to each other. So, it become (3 - 2)/6 = 1/6.
+        4. Here we can subtract the first number numerator with the second number numerator. The denominators don\'t need to be subtract to each other. So, it become (3 - 2)/6 = 1/6.
     </string>
     <string name="description_21">
         Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
@@ -147,7 +147,7 @@
     <string name="description_22">
         Fractions is a numerical quantity that is not a whole number. 1/2 is a fraction. In 1/2, the numerator is 1, and the denominator is 2.
         How to divide fractions number? Let\'s take example of (2/5)/(1/2).
-        1. Swap second number numerator to denominator and vice versa, (2/5) \ (2/1).
+        1. Swap second number numerator to denominator and vice versa, (2/5) / (2/1).
         2. Multiply first number numerator to second number numerator, then multiply second number numerator and second number denominator, (2 x 2) / (5 x 1).
         So, it become 4/5.
     </string>
@@ -163,7 +163,7 @@
         How to convert fractions to decimal? Let\'s take example from 5/10 and 2/25.
         1. If the denominator is either 10, 100, 1000, 10000, and so on, count the 0 digits, the number of digits behind point based on them. 5/10 denominator is 10, it has a 0 digit. So, it become 0.5.
         2. Another example is 4/100, the denominator digit is 2. So, the digit behind point are 2. It become 0.04.
-        3. If it's 25/100, the denominator digit is 2. So, the digit behind point are 2, it become 0.25.
+        3. If it\'s 25/100, the denominator digit is 2. So, the digit behind point are 2, it become 0.25.
         4. Another example is 2/25. We need to make the denominator either 10, 100, or 1000. We choose to change it to 100 because it already exceed 10. Multiply 2/25 with number that make 25 become 100. That number is 4. So, 2/25 x 25/25 = 50/100. There are two digits in 100. So, it become 0.5 or 0.50.
     </string>
     <string name="description_26">
